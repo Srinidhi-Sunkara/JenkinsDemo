@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootGitJenkinsDemoApplication {
 
 	public static void main(String[] args) {
+		System.out.println("Welcome");
 		SpringApplication.run(SpringBootGitJenkinsDemoApplication.class, args);
 	}
 
